@@ -14,6 +14,7 @@ Le projet a été développé avec seulement 2 langues, **HTML5** et **CSS3**, a
 ## `3 -` **|** Liens:
 
 - [Mon Twitter](https://twitter.com/wii_aposh)
+- [Ma chaine](https://www.youtube.com/channel/UCPCJwzw8wyxQ2Ew0rIvRyzQ)
 
 ## `4 -` **|** Auteur:
 
